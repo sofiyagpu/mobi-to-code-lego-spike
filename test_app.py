@@ -4,7 +4,7 @@ import mido
 
 from app import app, melody
 
-# аккорд до-ми-соль, пауза, ля 440
+# аккорд до ми соль, пауза, ля 440
 mid = mido.MidiFile()
 tr = mido.MidiTrack()
 mid.tracks.append(tr)
