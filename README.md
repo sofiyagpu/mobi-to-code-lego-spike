@@ -1,2 +1,2 @@
-# mobi-to-code-lego-spike
-"convert" any mobi file melody to primehub compatible program 
+# midi-to-code-lego-spike
+"convert" any midi file melody to primehub compatible program 
